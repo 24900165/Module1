@@ -47,5 +47,6 @@ ODD
 ```
 
 **Result**
+
 The program successfully checks whether the given number is even or odd using the `if...else` statement and prints the correct result.
 
