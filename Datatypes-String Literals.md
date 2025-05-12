@@ -15,10 +15,8 @@ print("You entered:", men_stepped_on_the_moon)
 ```
 
 ## Output
-```
-Enter a string: Hello, World!
-You entered: Hello, World!
-```
+![image](https://github.com/user-attachments/assets/da7a82a9-260c-4b91-a92f-b58e09d6f7ed)
+
 
 ## Result
 
