@@ -24,7 +24,8 @@ else:
 
 
 ## Output
-![image](https://github.com/user-attachments/assets/968783ce-0a23-4765-be8f-4292b96fb449)
+![image](https://github.com/user-attachments/assets/7579303c-2323-4bd6-8252-1e4b90687ac4)
+
 
 
 **Result**
