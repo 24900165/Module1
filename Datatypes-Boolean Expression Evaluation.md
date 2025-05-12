@@ -27,12 +27,7 @@ print("d:",d)
 ```
 
 ## Output
-```
-a is False
-b is True
-c: 2
-d: 9
-```
+![image](https://github.com/user-attachments/assets/c954b783-22e5-4b87-9f1c-2e636e9d0abe)
 
 
 **Result**
