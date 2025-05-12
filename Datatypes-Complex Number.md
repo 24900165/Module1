@@ -22,11 +22,8 @@ print(x.imag)
 ```
 
 ## Output
-```
-(3+4j)
-3.0
-4.0
-```
+![image](https://github.com/user-attachments/assets/289a49d3-3a1d-4669-b161-b7bb023349c3)
+
 
 **Result**
 
