@@ -13,10 +13,8 @@ print('T')
 print('a')
 ```
 ## Output
-```
-T
-a
-```
+![image](https://github.com/user-attachments/assets/80121d58-dae6-4bd9-989b-ad95ed6cc40d)
+
 
 **Result**
 
