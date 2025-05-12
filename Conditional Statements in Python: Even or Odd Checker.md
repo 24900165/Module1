@@ -24,27 +24,8 @@ else:
 
 
 ## Output
-```
-ODD
-```
+![image](https://github.com/user-attachments/assets/968783ce-0a23-4765-be8f-4292b96fb449)
 
-
-## Result
-Understood! Here's the revised format:
-
-```python
-a=int(input())
-if a%2==0:
-    print("EVEN")
-else:
-    print("ODD")
-```
-
-**Output**
-
-```
-ODD
-```
 
 **Result**
 
